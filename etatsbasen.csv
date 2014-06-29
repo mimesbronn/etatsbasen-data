@@ -153,7 +153,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 27197,lbf@lbf.no,Leieboerforeningen,Leieboerforeningen,Tentant 's Organization ,http://www.lbf.no/,,81,970015868,,
 27199,afi@afi-wri.no,Arbeidsforskningsinstituttet AS,Arbeidsforskingsinstituttet AS,Work Research Institute,http://www.afi-wri.no/,http://www.afi-wri.no/index.asp?iLang=1,89,984635818,,20528
 23635,deichman.boler@kul.oslo.kommune.no,"Deichmanske bibliotek, Bøler filial","Deichmanske bibliotek, Bøler filial","Oslo Public Library, Bøler branch",http://www.deichmanske-bibliotek.oslo.kommune.no/avdelinger_apningstider/boler/,http://www.deichmanske-bibliotek.oslo.kommune.no/avdelinger_apningstider/boler/boler_branch_in_english/,73,,,23699
-26453,postmottak@nhd.dep.no,Nærings- og handelsdepartementet,Nærings- og handelsdepartementet,Ministry of Trade and Industry,http://www.regjeringen.no/nn/dep/nhd.html?id=709,http://www.regjeringen.no/en/dep/nhd.html?id=709,27,972417890,,
+26453,postmottak@nhd.dep.no,Nærings- og fiskeridepartementet,Nærings- og fiskeridepartementet,Ministry of Trade, Industry and Fisheries,http://www.regjeringen.no/nn/dep/nhd.html?id=709,http://www.regjeringen.no/en/dep/nhd.html?id=709,27,972417890,,
 26456,postmottak@dirnat.no,Direktoratet for naturforvaltning,Direktoratet for naturforvaltning,Directorate for Nature Management ,http://www.dirnat.no,http://english.dirnat.no/,33,971036028,,26479
 41502,firmapost@statnett.no,Statnett region midt-Norge,Statnett region midt-Norge,Statnett,http://www.statnett.no,http://www.statnett.no/en/,50,,,24173
 33521,,Utdanning.no,Utdanning.no,Utdanning.no,http://www.utdanning.no/,,121,,,20528
@@ -1095,7 +1095,6 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 23548,biblioteket@lom.kommune.no,Lom folkebibliotek,Lom folkebibliotek,Lom  Public Library,http://www.lom.kommune.no/index.gan?id=1220,,73,,,25863
 27123,post@fni.no,Fridtjof Nansens Institutt,Fridtjof Nansens Institutt,The Fridtjof Nansen Institute,http://www.fni.no/,,55,944137238,,
 27125,postmottak@bld.dep.no,"Barne-, likestillings- og inkluderingsdepartementet","Barne-, likestillings- og inkluderingsdepartementet","Ministry of Children, Equality and Social Inclusion",http://www.regjeringen.no/nb/dep/bld.html?id=298,http://www.regjeringen.no/en/dep/bld.html?id=298,27,972417793,,
-27130,postmottak@fad.dep.no,"Fornyings-, administrasjons- og kirkedepartementet","Fornyings-, administrasjons- og kyrkjedepartementet","Ministry of Government Administration, Reform and Church Affairs",http://www.regjeringen.no/nb/dep/fad.html?id=339,http://www.regjeringen.no/en/dep/fad.html?id=339,27,972417785,,
 27133,nr@nr.no,Norsk Regnesentral,Norsk Regnesentral,Norwegian Computing Center,http://www.nr.no/,,141,952125001,,
 27141,kundeservice@niku.no,NIKU - Norsk institutt for kulturminneforskning,NIKU - Norsk institutt for kulturminneforskning,Norwegian Institute for Cultural Heritage Research,http://www.niku.no/,http://www.niku.no/en/,90,,,
 27145,krad@jd.dep.no,Det kriminalitetsforebyggende råd,Det kriminalitetsforebyggende råd,Norwegian National Crime Prevention Council ,http://www.krad.no/,http://www.krad.no/om-krad/english,42,,,26888
@@ -1215,7 +1214,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 26406,kundeservice@posten.no,Posten Norge AS,Posten Noreg AS,Norway Post,http://www.posten.no/,http://www.posten.no/en/,52,984661185,,26420
 33665,post@bygdeforskning.no,Bygdeforskning - Norsk senter for bygdeforskning,Bygdeforskning - Norsk senter for bygdeforskning,Centre for Rural Research (CRR),http://www.bygdeforskning.no/,http://www.bygdeforskning.no/en,90,982890535,,
 26415,,Telenor ASA,Telenor ASA,Telenor ASA,http://www.telenor.no/,,89,982463718,,
-26416,postmottak@ad.dep.no,Arbeidsdepartementet,Arbeidsdepartementet,Ministry of Labour ,http://www.regjeringen.no/nb/dep/ad.html?id=165,http://www.regjeringen.no/en/dep/ad.html?id=165,27,983887457,,
+26416,postmottak@ad.dep.no,Arbeids- og sosialdepartementet,Arbeids- og sosialdepartementet,Ministry of Labour and social affairs,http://www.regjeringen.no/nb/dep/ad.html?id=165,http://www.regjeringen.no/en/dep/ad.html?id=165,27,983887457,,
 26417,nve@nve.no,NVE - Norges vassdrags- og energidirektorat,NVE - Noregs vassdrags- og energidirektorat,Norwegian Water Resources and Energy Directorate,http://www.nve.no/,http://www.nve.no/en/,33,970205039,,25084
 26419,mail@patentstyret.no,Patentstyret ,Patentstyret ,Norwegian Industrial Property Office,http://www.patentstyret.no,http://www.patentstyret.no/en/,38,971526157,,26453
 26420,postmottak@sd.dep.no,Samferdselsdepartementet,Samferdselsdepartementet,Ministry of Transport and Communications,http://www.regjeringen.no/nb/dep/sd.html?id=791,http://www.regjeringen.no/en/dep/sd.html?id=791,27,972417904,,
@@ -1679,7 +1678,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 20530,postmottak@kud.dep.no,Kulturdepartementet,Kulturdepartementet,Ministry of Culture ,http://www.regjeringen.no/nb/dep/kkd.html?id=545,http://www.regjeringen.no/en/dep/kud.html?id=545,27,972417866,,
 20531,akan@akan.no,AKAN - Arbeidslivets komite mot alkoholisme og narkomani,AKAN - Arbeidslivets komite mot alkoholisme og narkomani,Norwegian Tripartite Committee for the Prevention of Alcohol and Drug Problems in the Workplace,http://www.akan.no/,http://www.akan.no/publisher/publisher.asp?id=82,141,971429577,,
 20534,post@barneombudet.no,Barneombudet,Barneombodet,Ombudsman for children,http://www.barneombudet.no/,http://www.barneombudet.no/english/,32,971527765,,27125
-20535,postmottak@krd.dep.no,Kommunal- og regionaldepartementet,Kommunal- og regionaldepartementet,Ministry of Local Government and Regional Development,http://www.regjeringen.no/nb/dep/krd.html?id=504,http://www.regjeringen.no/en/dep/krd.html?id=504,27,972417858,,
+20535,postmottak@krd.dep.no,Kommunal- og moderniseringsdepartementet,Kommunal- og moderniseringsdepartementet,Ministry of Local Government and Modernisation,http://www.regjeringen.no/nb/dep/krd.html?id=504,http://www.regjeringen.no/en/dep/krd.html?id=504,27,972417858,,
 26375,post@mfa.no,Utenriksdepartementet,Utanriksdepartementet,Ministry of Foreign Affairs,http://www.regjeringen.no/nb/dep/ud.html?id=833,http://www.regjeringen.no/en/dep/ud.html?id=833,27,972417920,,
 26378,postmottak@helsetilsynet.no,Statens helsetilsyn,Statens helsetilsyn,Norwegian Board of Health Supervision,http://www.helsetilsynet.no/,http://www.helsetilsynet.no/no/Norwegian-Board-of-Health-Supervision/,33,974761394,,32161
 26285,emb.daressalaam@mfa.no,"Ambassaden i Tanzania, Dar es Salaam (Seychellene, La Réuinon)","Ambassaden i Tanzania, Dar es Salaam (Seychellene, La Réuinon)",Royal Norwegian Embassy in Tanzania (Seychelles),http://www.norway.go.tz/Norsk/,http://www.norway.go.tz/,76,,,26375
@@ -1935,7 +1934,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 26162,post@forsand.kommune.no,Forsand kommune,Forsand kommune,Forsand Municipality,http://www.forsand.kommune.no,,66,939347801,1129,
 42661,postmottak@so-hf.no,DPS Halden/Sarpsborg - Haldenklinikken,DPS Halden/Sarpsborg - Haldenklinikken,Halden/Sarpsborg Distrct Psychiatric Centre,http://www.sykehuset-ostfold.no/omoss/avdelinger/distriktspsykiatrisk-sentre-dps/dps-haldensarpsborg/Sider/side.aspx,,39,,,42302
 42662,postmottak@so-hf.no,DPS Moss - distriktspsykiatrisk senter,DPS Moss - distriktspsykiatrisk senter,Moss District Psychiatric Centre,http://www.sykehuset-ostfold.no/omoss/avdelinger/distriktspsykiatrisk-sentre-dps/dps-moss/Sider/side.aspx,,39,,,42302
-26479,postmottak@md.dep.no,Miljøverndepartementet,Miljøverndepartementet,Ministry of the Environment,http://www.regjeringen.no/nb/dep/md.html?id=668,http://www.regjeringen.no/en/dep/md.html?id=668,27,972417882,,
+26479,postmottak@md.dep.no,Klima- og miljødepartementet,Klima- og miljødepartementet,Ministry of Climate and Environment,http://www.regjeringen.no/nb/dep/md.html?id=668,http://www.regjeringen.no/en/dep/md.html?id=668,27,972417882,,
 42663,post@piv.no,Søndre Vestfold DPS ,Søndre Vestfold DPS ,Søndre Vestfold District Psychiatric Centre,http://www.piv.no/index.php?option=com_content&view=article&id=50:sondre-vestfold-dps&catid=23&Itemid=191,,39,,,32254
 33001,post@tilsynet.no,Tilsynsrådet for advokatvirksomhet,Tilsynsrådet for advokatvirksomhet,Supervisory Council for Legal Practice,http://www.tilsynet.no/,,42,977045894,,26888
 33021,admin@gassco.no,Gassco ,Gassco ,Gassco ,http://www.gassco.no,http://www.gassco.no/wps/wcm/connect/Gassco-EN/gassco/Home,52,983452841,,25084
