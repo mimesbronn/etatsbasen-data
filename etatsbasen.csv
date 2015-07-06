@@ -2704,7 +2704,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 44202,servicetorget@nes-bu.kommune.no,Servicetorget i Nes kommune (Buskerud),Servicetorget i Nes kommune (Buskerud),Nes Municipal Service Centre (Buskerud),http://www.nes-bu.kommune.no/Toppmeny/Servicetorg/,,73,,,25803
 44482,,"Aust-Agder DPS - poliklinikk Vest, Grimstad","Aust-Agder DPS - poliklinikk Vest, Grimstad",Aust-Agder District Psychiatric Centre ,,,39,,,32249
 22684,biblioteket@vikna.kommune.no,Vikna folkebibliotek,Vikna folkebibliotek,Vikna  Public Library,http://www.vikna.kommune.no/Vikna/Web.nsf/membersVirk?OpenForm&S=VIRK&U=SKOPPV&IDV=C9724003421B2FFCC1256F32003DD9F8,,73,,,25242
-22782,biblioteksjef@radoy.kommune.no,Radøy bibliotek, ,Radøy Public Library,http://radoy.bibliotekivest.no/,,73,,,25674
+22782,biblioteksjef@radoy.kommune.no,Radøy bibliotek,Radøy bibliotek,Radøy Public Library,http://radoy.bibliotekivest.no/,,73,,,25674
 40373,,Skatt vest Årdal,Skatt vest Årdal,Årdal Tax Office,http://www.skatteetaten.no/no/,http://www.skatteetaten.no/en/International-pages/,37,,,40184
 40377,,Skatt vest Odda,Skatt vest EOdda,Odda Tax Office,http://www.skatteetaten.no/no/,http://www.skatteetaten.no/en/International-pages/,37,,,40184
 42286,post@unn.no,Longyearbyen sykehus,Longyearbyen sykehus,Longyearbyen sykehus,http://www.unn.no/om-oss/category9529.html,,39,,,42282
@@ -4318,7 +4318,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 30871,,Lierne forliksråd,Lierne forliksråd,Lierne Conciliation Board,http://www.forliksraadet.no/index.php,,281,,,42202
 30872,post.sivil.lillehammer.gudbrandsdal@politiet.no,Lillehammer forliksråd,Lillehammer forliksråd,Lillehammer Conciliation Board,http://www.forliksraadet.no/index.php,,281,,,42202
 31118,,Øvre Eiker forliksråd,Øvre Eiker forliksråd,Øvre Eiker Conciliation Board,http://www.forliksraadet.no/index.php,,281,,,42202
-22376,hordaland@pobo.no,Pasient- og brukerombudet i Hordaland, ,Ombudsman for patients in Hordaland,http://www.pasientogbrukerombudet.no/fylke/6/Hordaland/,,36,,,32189
+22376,hordaland@pobo.no,Pasient- og brukerombudet i Hordaland,Pasient- og brukarombodet i Hordaland,Ombudsman for patients in Hordaland,https://helsenorge.no/pasient-og-brukerombudet/hordaland,,36,985530904,,32189
 22377,nordland@pasientogbrukerombudet.no,Pasient- og brukerombudet i Nordland,Pasient- og brukerombudet i Nordland,Ombudsman for patients in Nordland,http://www.pasientombudet.no/fylke/8/Nordland/,,36,,,32189
 22382,rogaland@pasientogbrukerombudet.no,Pasient- og brukerombudet i Rogaland,Pasient- og brukerombudet i Rogaland,Ombudsman for patients in Rogaland,http://pasientombudet.no/fylke/12/Rogaland/,,36,,,32189
 22387,telemark@pasientogbrukerombudet.no,Pasient- og brukerombudet i Telemark,Pasient- og brukerombudet i Telemark,Ombudsman for patients in Telemark,http://www.pasientombudet.no/fylke/15/Telemark/,,36,,,32189
