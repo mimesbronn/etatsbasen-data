@@ -1,6 +1,17 @@
 # etatsbasen-data
 
-Inneholder en csv fil med en utdatert liste over offentlige virksomheter i Norge. Målet er å få orden på den.
+Inneholder en csv fil med en utdatert liste over offentlige
+virksomheter i Norge. Opprinnelig er datasettet fra etatsbasen
+tilknyttet norge.no / Difi. Dessverre har dette datasettet ikke blitt
+oppdatert siden 2012 da arbeidet med norge.no har vært uavklart.
+
+Vi ønsker å få tak i grunnlaget for dette datasettet og har du
+informasjon om dette så vennligst ta kontakt her eller via
+kontaktsidene på https://mimesbronn.no
+
+Datasettet er opprinnelig basert på åpne datasett fra Difi og er
+underlagt Norsk lisens for offentlig data (NLOD). Datagrunnlaget ble
+sist oppdatert i 2012, og blir ikke lenger vedlikeholdt av Difi.
 
 # eksempel
 
@@ -14,4 +25,14 @@ universitetssykehus.no/omoss/avdelinger/dps-sondre-oslo/Sider/enhet.aspx,,39,,,4
 ```
 # lisens
 
-Norwegian Licence for Open Government Data (NLOD) http://data.norge.no/nlod/en/1.0
+Norwegian Licence for Open Government Data (NLOD)
+http://data.norge.no/nlod/en/1.0
+
+eller
+
+Open Data Commons Attribution License (versjon 1.0)
+http://opendatacommons.org/licenses/by/1-0/
+
+eller
+
+Open Government Licence (versjon 1.0)
