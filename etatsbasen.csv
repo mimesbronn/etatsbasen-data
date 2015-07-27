@@ -153,7 +153,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 27197,lbf@lbf.no,Leieboerforeningen,Leieboerforeningen,Tentant 's Organization ,http://www.lbf.no/,,81,970015868,,
 27199,afi@afi-wri.no,Arbeidsforskningsinstituttet AS,Arbeidsforskingsinstituttet AS,Work Research Institute,http://www.afi-wri.no/,http://www.afi-wri.no/index.asp?iLang=1,89,984635818,,20528
 23635,deichman.boler@kul.oslo.kommune.no,"Deichmanske bibliotek, Bøler filial","Deichmanske bibliotek, Bøler filial","Oslo Public Library, Bøler branch",http://www.deichmanske-bibliotek.oslo.kommune.no/avdelinger_apningstider/boler/,http://www.deichmanske-bibliotek.oslo.kommune.no/avdelinger_apningstider/boler/boler_branch_in_english/,73,,,23699
-26453,postmottak@nhd.dep.no,Nærings- og fiskeridepartementet,Nærings- og fiskeridepartementet,Ministry of Trade, Industry and Fisheries,http://www.regjeringen.no/nn/dep/nhd.html?id=709,http://www.regjeringen.no/en/dep/nhd.html?id=709,27,972417890,,
+26453,postmottak@nhd.dep.no,Nærings- og fiskeridepartementet,Nærings- og fiskeridepartementet,"Ministry of Trade, Industry and Fisheries",http://www.regjeringen.no/nn/dep/nhd.html?id=709,http://www.regjeringen.no/en/dep/nhd.html?id=709,27,972417890,,
 26456,postmottak@dirnat.no,Direktoratet for naturforvaltning,Direktoratet for naturforvaltning,Directorate for Nature Management ,http://www.dirnat.no,http://english.dirnat.no/,33,971036028,,26479
 41502,firmapost@statnett.no,Statnett region midt-Norge,Statnett region midt-Norge,Statnett Region Central Norway ,http://www.statnett.no,http://www.statnett.no/en/,50,,,24173
 33521,,Utdanning.no,Utdanning.no,Utdanning.no,http://www.utdanning.no/,,121,,,20528
@@ -197,8 +197,8 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 22750,bibliotek@norddal.kommune.no,Norddal folkebibliotek,Norddal folkebibliotek,Norddal Public Library,http://www.norddal.kommune.no/artikkel.aspx?AId=77&back=1&MId1=64&MId2=111,,73,,,25789
 22751,biblioteket@rauma.folkebibl.no,Rauma folkebibliotek,Rauma folkebibliotek,Rauma Public Library,http://www.raumakulturhus.no/bibliotek/,,73,,,25680
 22753,bibliotek@sande-mr.kommune.no,Sande bibliotek (Møre og Romsdal),Sande bibliotek (Møre og Romsdal),Sande Public Library (Møre og Romsdal),"http://www.sande-mr.kommune.no/default.asp?page=2641,4409&lang=1",,73,,,25573
-22754,biblioteket@sveio.kommune.no,Sveio folkebibliotek,Sveio folkebibliotek,Sveio  Public Library,http://www.sveio.kommune.no/Artikkel.aspx?AId=25&back=1&MId1=778&MId2=&MId3=&,,73,,,25355
-22755,tysbib@online.no,Tysnes folkebibliotek,Tysnes folkebibliotek,Tysnes  Public Library,http://www.tysnes.kommune.no/default.asp?PageID=84,,73,,,25289
+22754,biblioteket@sveio.kommune.no,Sveio folkebibliotek,Sveio folkebibliotek,Sveio  Public Library,http://www.sveio.kommune.no/Artikkel.aspx?AId=25&back=1&MId1=778&MId2=&MId3=&,,73,864967272,,25355
+22755,tysbib@online.no,Tysnes folkebibliotek,Tysnes folkebibliotek,Tysnes  Public Library,http://www.tysnes.kommune.no/default.asp?PageID=84,,73,873942312,,25289
 22756,post.kinsarvik.bibliotek@ullensvang.herad.no,Ullensvang folkeboksamling,Ullensvang folkeboksamling,Ullensvang folkeboksamling,http://www.ullensvang.herad.no/index.php?option=com_content&task=category&sectionid=12&id=93&Itemid=288,,73,,,25295
 22757,sandoy.folkebibliotek@sandoy.kommune.no,Sandøy bibliotek,Sandøy bibliotek,Sandøy Public Library,http://www.sandoy.kommune.no/sandoey-folkebibliotek.426774-19461.html,,73,,,25575
 22759,biblioteket@smola.kommune.no,Smøla folkebibliotek,Smøla folkebibliotek,Smøla Public Library,http://www.smola.kommune.no/artikkel.aspx?AId=45&back=1&MId1=262&MId2=664,,73,,,25513
@@ -469,7 +469,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 22565,postmottak@ub.uio.no,Universitetsbiblioteket i Oslo,Universitetsbiblioteket i Oslo,University of Oslo Library,http://www.ub.uio.no/,http://www.ub.uio.no/english/,39,,,25299
 22566,post@ub.uib.no,Universitetsbiblioteket i Bergen,Universitetsbiblioteket i Bergen,University of Bergen Library,http://www.uib.no/ub,http://www.uib.no/ub/en,39,,,25298
 22569,bibliotek@nordreisa.kommune.no,Nordreisa folkebibliotek,Nordreisa folkebibliotek,Nordreisa  Public Library,http://www.nordreisa.kommune.no/troms/nordreisa/nordreisak.nsf/932db17d668fff70c12569370027a098/69c654a20c60bec541256c5f00664dd3!OpenDocument,,73,,,25779
-22570,stein.markussen@salangen.kommune.no,Salangen folkebibliotek,Salangen folkebibliotek,Salangen  Public Library,http://www.salangen.kommune.no/troms/salangen/salangenk.nsf/id/545CB12A7774F16AC1256E1A00357361?OpenDocument,,73,,,25612
+22570,stein.markussen@salangen.kommune.no,Salangen folkebibliotek,Salangen folkebibliotek,Salangen  Public Library,http://www.salangen.kommune.no/troms/salangen/salangenk.nsf/id/545CB12A7774F16AC1256E1A00357361?OpenDocument,,73,876978962,,25612
 22571,bibliotek@skjervoy.kommune.no,Skjervøy folkebibliotek,Skjervøy folkebibliotek,Skjervøy  Public Library,http://www.skjervoy.kommune.no/biblioteket.5817.no.html,,73,,,25508
 22573,biblioteket@storfjord.kommune.no,Storfjord folkebibliotek,Storfjord folkebibliotek,Storfjord  Public Library,http://www.storfjord.kommune.no/bibliotek.4495045-103274.html,http://www.storfjord.kommune.no/english.105439.no.html,73,,,25344
 22574,sorreisa.folkebibliotek@sorreisa.kommune.no,Sørreisa folkebibliotek,Sørreisa folkebibliotek,Sørreisa  Public Library,http://asp.bibits.no/sorreisa_fb/default.asp,,73,,,25366
@@ -561,7 +561,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 22692,fylkesbiblioteket@ntfk.no,Nord-Trøndelag fylkesbibliotek,Nord-Trøndelag fylkesbibliotek,Nord-Trøndelag County Library,http://www.nt.fylkesbibl.no/,,64,,,25783
 22693,gro.seltveit@flatanger.kommune.no,Flatanger folkebibliotek,Flatanger folkebibliotek,Flatanger Public Library,http://www.flatanger.kommune.no/folkebibliotek.107594.no.html,,73,,,26202
 22694,folkebiblioteket@fosnes.kommune.no,Fosnes folkebibliotek,Fosnes folkebibliotek,Fosnes Public Library,http://www.fosnes.kommune.no/bibliotek/,,73,,,26154
-22695,ulstein.bibliotek@tussa.com,Ulstein folkebibliotek,Ulstein folkebibliotek,Ulstein Public Library,http://www.ulstein.kommune.no/Modules/theme.aspx?ObjectType=Article&ElementID=756&Category.ID=781,,73,,,25296
+22695,ulstein.bibliotek@tussa.com,Ulstein folkebibliotek,Ulstein folkebibliotek,Ulstein Public Library,http://www.ulstein.kommune.no/Modules/theme.aspx?ObjectType=Article&ElementID=756&Category.ID=781,,73,974617455,,25296
 22696,bibliotek@vanylven.kommune.no,Vanylven folkebibliotek,Vanylven folkebibliotek,Vanylven Public Library,http://www.vanylven.kommune.no/Modules/service.aspx?ObjectType=Service&Service.ID=236&Category.ID=745,,73,,,25254
 22697,biblioteket@vestnes.kommune.no,Vestnes folkebibliotek,Vestnes folkebibliotek,Vestnes Public Library,http://www.vestnes.kommune.no/Modules/theme.aspx?Category.ID=1088&ObjectType=Article&ElementID=2155,,73,,,25234
 22698,voldakom@online.no,Volda folkebibliotek,Volda folkebibliotek,Volda Public Library,http://www.volda.kommune.no/Modules/servicecategory.aspx?ObjectType=Category&Category.ID=828,,73,,,25216
@@ -1466,7 +1466,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 26540,samediggi@samediggi.no,Sametinget - Sámediggi ,Sametinget - Sámediggi ,Sami Parliament,http://www.samediggi.no/artikkel.aspx?MId1=3376&AId=1&back=1&sprak=Samisk,http://www.samediggi.no/artikkel.aspx?MId1=270&AId=3675&back=1,16,,,
 42659,postmottak@so-hf.no,DPS Edwin Ruud ,DPS Edwin Ruud ,Edwin Ruud District Psychiatric Centre,http://www.sykehuset-ostfold.no/omoss/avdelinger/distriktspsykiatrisk-sentre-dps/dps-edwin-ruud/Sider/side.aspx,,39,,,42302
 42660,postmottak@so-hf.no,DPS Fredrikstad - distriktspsykiatrisk senter,DPS Fredrikstad - distriktspsykiatrisk senter,Fredrikstad District Psychiatric Centre,http://www.sykehuset-ostfold.no/omoss/avdelinger/distriktspsykiatrisk-sentre-dps/dps-fredrikstad/Sider/side.aspx,,39,,,32269
-26549,post@nav.no,Arbeids- og velferdsdirektoratet - NAV,Arbeids- og velferdsdirektoratet - NAV,Norwegian Labour and Welfare Administration,http://www.nav.no/,http://www.nav.no/English,33,889640782,,26416
+26549,direktoratet@nav.no,Arbeids- og velferdsdirektoratet - NAV,Arbeids- og velferdsdirektoratet - NAV,Norwegian Labour and Welfare Administration,http://www.nav.no/,http://www.nav.no/English,33,889640782,,26416
 26550,post@arbeidstilsynet.no,Arbeidstilsynet Oslo ,Arbeidstilsynet Oslo ,Oslo Labour Inspection Authority,http://www.arbeidstilsynet.no/,http://www.arbeidstilsynet.no/om/engelsk.html,36,974771640,,25117
 26551,postmottak@dsb.no,Direktoratet for samfunnssikkerhet og beredskap,Direktoratet for samfunnstryggleik og beredskap,Directorate for Civil Protection and Emergency Planning,http://www.dsb.no/,http://www.dsb.no/no/toppmeny/English/,33,974760983,,26888
 26553,firmapost@siva.no,SIVA - Selskapet for industrivekst SF,SIVA - Selskapet for industrivekst SF,SIVA - Industrial Development Corporation of Norway,http://www.siva.no/,http://www.siva.no/internett/cms.nsf/pages/english?open,49,966703032,,26453
@@ -1529,7 +1529,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 23777,nav.kontaktsenter@nav.no,NAV Stranda ,NAV Stranda ,NAV Stranda ,http://www.nav.no/Lokalt/M%C3%B8re+og+Romsdal,http://nav.no/page?id=805312736,37,,,26065
 41949,post@lds.no,Lovisenberg DPS - Gamle Oslo ,Gamle Oslo DPS - distriktspsykiatrisk senter,Lovisenberg District Psychiatric Centre - Gamle Oslo,http://www.lds.no/modules/module_123/proxy.asp?D=2&C=675&I=8961,,57,,,41947
 41950,postmottak@ahus.no,Grorud DPS - distriktspsykiatrisk senter,Grorud  DPS - distriktspsykiatrisk senter,Grorud District Psychiatric Centre,http://ahus.no/omoss/avdelinger/grorud-distriktspsykiatriske-senter-grorud-dps/Sider/enhet.aspx,,39,,,32258
-27546,nav.kontaktsenter@nav.no,NAV Porsanger-Porsanggu-Porsangin, ,NAV Porsanger-Porsanggu-Posangin,http://www.nav.no/Lokalt/Finnmark,http://nav.no/page?id=805312736,37,,,26097
+27546,nav.kontaktsenter@nav.no,NAV Porsanger-Porsáŋggu-Porsangin,NAV Porsanger-Porsáŋggu-Porsangin,NAV Porsanger-Porsanggu-Posangin,http://www.nav.no/Lokalt/Finnmark,http://nav.no/page?id=805312736,37,,,26097
 27561,post@ovre-eiker.kommune.no,Øvre Eiker kommune,Øvre Eiker kommune,Øvre Eiker Municipality,http://www.ovre-eiker.kommune.no,,66,954597482,0624,
 27562,info@audnedal.kommune.no,Audnedal kommune,Audnedal kommune,Audnedal Municipality,http://www.audnedal.kommune.no/,http://www.audnedal.kommune.no/om-kommunen/information-in-english,66,964966753,1027,
 27563,post@asnes.kommune.no,Åsnes kommune,Åsnes kommune,Åsnes Municipality,http://www.asnes.kommune.no/,https://www.asnes.kommune.no/artikkel.aspx?MId1=43&AId=60&back=1,66,964948232,0425,
@@ -2704,7 +2704,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 44202,servicetorget@nes-bu.kommune.no,Servicetorget i Nes kommune (Buskerud),Servicetorget i Nes kommune (Buskerud),Nes Municipal Service Centre (Buskerud),http://www.nes-bu.kommune.no/Toppmeny/Servicetorg/,,73,,,25803
 44482,,"Aust-Agder DPS - poliklinikk Vest, Grimstad","Aust-Agder DPS - poliklinikk Vest, Grimstad",Aust-Agder District Psychiatric Centre ,,,39,,,32249
 22684,biblioteket@vikna.kommune.no,Vikna folkebibliotek,Vikna folkebibliotek,Vikna  Public Library,http://www.vikna.kommune.no/Vikna/Web.nsf/membersVirk?OpenForm&S=VIRK&U=SKOPPV&IDV=C9724003421B2FFCC1256F32003DD9F8,,73,,,25242
-22782,biblioteksjef@radoy.kommune.no,Radøy bibliotek, ,Radøy Public Library,http://radoy.bibliotekivest.no/,,73,,,25674
+22782,biblioteksjef@radoy.kommune.no,Radøy bibliotek,Radøy bibliotek,Radøy Public Library,http://radoy.bibliotekivest.no/,,73,,,25674
 40373,,Skatt vest Årdal,Skatt vest Årdal,Årdal Tax Office,http://www.skatteetaten.no/no/,http://www.skatteetaten.no/en/International-pages/,37,,,40184
 40377,,Skatt vest Odda,Skatt vest EOdda,Odda Tax Office,http://www.skatteetaten.no/no/,http://www.skatteetaten.no/en/International-pages/,37,,,40184
 42286,post@unn.no,Longyearbyen sykehus,Longyearbyen sykehus,Longyearbyen sykehus,http://www.unn.no/om-oss/category9529.html,,39,,,42282
@@ -2984,7 +2984,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 24786,nav.kontaktsenter@nav.no,NAV Dovre ,NAV Dovre ,NAV Dovre ,http://www.nav.no/Lokalt/Oppland,http://www.nav.no/page?id=1073743655,37,,,26054
 24072,,Skatt nord Rana,Skatt nord Rana,Rana Tax Office,http://www.skatteetaten.no/no/,http://www.skatteetaten.no/en/International-pages/,37,,,40182
 24078,postmottak@jbv.no,Jernbaneverket,Jernbaneverket,Norwegian National Rail Administration,http://www.jernbaneverket.no/,http://jernbaneverket2.no-ip.org/en/Startpage/,33,971033533,,26420
-24079,sta@kartverket.no,Statens kartverk Stavanger,Statens kartverk Stavanger,Norwegian Mapping Authority - Stavanger,http://www.statkart.no/stavanger,http://www.statkart.no/eng/Norwegian_Mapping_Authority/,44,,,25107
+24079,sta@kartverket.no,Statens kartverk Stavanger,Statens kartverk Stavanger,Norwegian Mapping Authority - Stavanger,http://www.statkart.no/stavanger,http://www.statkart.no/eng/Norwegian_Mapping_Authority/,44,973623664,,25107
 24080,ber@kartverket.no,Statens kartverk Bergen,Statens kartverk Bergen,Norwegian Mapping Authority - Bergen,http://www.statkart.no/bergen,http://www.statkart.no/eng/Norwegian_Mapping_Authority/,44,,,25107
 24082,mol@kartverket.no,Statens kartverk Molde,Statens kartverk Molde,Norwegian Mapping Authority - Molde,http://www.statkart.no/molde,http://www.statkart.no/eng/Norwegian_Mapping_Authority/,44,,,25107
 24083,trh@kartverket.no,Statens kartverk Trondheim,Statens kartverk Trondheim,Norwegian Mapping Authority - Trondheim,http://www.statkart.no/Om-Kartverket/Trondheim/,http://www.statkart.no/eng/Norwegian_Mapping_Authority/,44,,,25107
@@ -3160,7 +3160,6 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 28065,firmapost-midt@vegvesen.no,Sunndalsøra Servicekontor (trafikkstasjon),Sunndalsøra Servicekontor (trafikkstasjon),Sunndalsøra Traffic Services Office,http://www.vegvesen.no/Om+Statens+vegvesen/Kontakt/Kontakt+oss/Trafikkstasjoner,http://www.vegvesen.no/en/The+NPRA/Contact+us/Contact+information/56794.cms,37,,,33802
 39102,dok@dok.no,Dokumentasjonssenteret,Dokumentasjonssenteret,National Centre for Documentation on Disability,http://www.dok.no/,,39,,,27125
 38562,post@imdi.no,IMDi - Integrerings- og mangfoldsdirektoratet,IMDi - Integrerings- og mangfoldsdirektoratet,Directorate of Integration and Diversity,http://www.imdi.no,http://www.imdi.no/en/Sprak/English/,33,987879696,,27125
-22403,,Krisesenter for kvinner i Odda og omegn, ,Krisesenter for kvinner i Odda og omegn,http://www.krisesenter.com/index.html,http://www.krisesenter.com/english/english.html,82,,,
 22404,postmaster@vosskrisesenter.no,Voss krisesenter,Voss krisesenter,Voss krisesenter,http://www.vosskrisesenter.no/,http://www.krisesenter.com/english/english.html,82,971543078,,
 22405,post@krisesenteret.sf.no,Krisesenteret i Sogn og Fjordane,Krisesenteret i Sogn og Fjordane,Krisesenteret i Sogn og Fjordane,http://www.krisesenteret.sf.no/,http://www.krisesenter.com/english/english.html,82,,,
 22406,post@nordmorekrisesenter.no,"Nordmøre krisesenter, Kristiansund","Nordmøre krisesenter, Kristiansund","Nordmøre krisesenter, Kristiansund",http://www.nordmorekrisesenter.no/,http://www.nordmorekrisesenter.no/pages/view/39403,82,971367695,,
@@ -3594,7 +3593,6 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 21414,jstopost@domstol.no,Haugalandet og Sunnhordland jordskifterett,Haugalandet og Sunnhordland jordskifterett,Haugalandet og Sunnhordland Land Consolidation Court,http://www.jordskifte.no/,http://www.domstol.no/en/Enkelt-domstol/The-land-consolidation-court-of-Norway/,21,,,40944
 21330,helgeland.jordskifterett@domstol.no,Helgeland jordskifterett,Helgeland jordskifterett,Helgeland Land Consolidation Court,http://www.jordskifte.no/,http://www.domstol.no/en/Enkelt-domstol/The-land-consolidation-court-of-Norway/,21,,,40944
 28328,emb.lilongwe@mfa.no,"Ambassaden i Malawi, Lilongwe","Ambassaden i Malawi, Lilongwe",Royal Norwegian Embassy in Malawi,http://www.norway.mw/Norsk/,http://www.norway.mw/,76,,,26375
-31342,kunstnerstipend@kulturrad.no,Utvalget for statens stipend og garantiinntekter for kunstnere, ,Norwegian Government Grant and Guaranteed Income for Artists ,http://www.kunstnerstipend.no/forsiden/utvalget/,http://www.kunstnerstipend.no/english/,42,,,
 31346,postmottak@shpn.no,Statens helsepersonellnemnd,Statens helsepersonellnemnd,Statens helsepersonellnemnd,http://www.helsenemnda.no,http://www.shpn.no/InEnglish.aspx,58,983194583,,32161
 34160,post@arbeidstilsynet.no,"Arbeidstilsynet Vestlandet, tilsynskontor Haugesund ","Arbeidstilsynet Vestlandet, tilsynskontor Haugesund ","Labour Inspection Authority Vestlandet, Haugesund office",http://www.arbeidstilsynet.no/,http://www.arbeidstilsynet.no/om/engelsk.html,36,,,26317
 34161,post@arbeidstilsynet.no,"Arbeidstilsynet Nord-Norge, tilsynskontor Alta","Arbeidstilsynet Nord-Norge, tilsynskontor Alta","Labour Inspection Authority Nord-Norge, Alta office",http://www.arbeidstilsynet.no/,http://www.arbeidstilsynet.no/om/engelsk.html,36,,,40644
@@ -3701,7 +3699,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 25062,borgadm@domstol.no,Borgarting lagmannsrett,Borgarting lagmannsrett,Borgarting Court of Appeal,http://www.domstol.no/DAtemplates/Section____10142.aspx,http://www.domstol.no/default____2916.aspx?epslanguage=EN,18,,,40942
 25063,gulating@domstol.no,Gulating lagmannsrett,Gulating lagmannsrett,Gulating Court of Appeal,http://www.domstol.no/DAtemplates/Section____10279.aspx?epslanguage=NN,http://www.domstol.no/default____2916.aspx?epslanguage=EN,18,,,40942
 25064,halogaland.lagmannsrett@domstol.no,Hålogaland lagmannsrett,Hålogaland lagmannsrett,Hålogaland Court of Appeal,http://www.domstol.no/DAtemplates/Section____14524.aspx?epslanguage=NO,http://www.domstol.no/default____2916.aspx?epslanguage=EN,18,,,40942
-25071,firmapost@npt.no,Post- og teletilsynet,Post- og teletilsynet,Norwegian Post and Telecommunications Authority,http://www.npt.no/,http://www.npt.no/portal/page/portal/PG_NPT_NO_EN/PAG_NPT_EN_HOME,33,,,26420
+25071,firmapost@nkom.no,Nasjonal kommunikasjonsmyndighet,Nasjonal kommunikasjonsmyndighet,Norwegian Communications Authority,http://www.nkom.no/,http://eng.nkom.no/,33,974446871,,26420
 25072,post@sjt.no,Statens jernbanetilsyn,Statens jernbanetilsyn,Norwegian Railway Authority,http://www.sjt.no/,http://www.sjt.no/en/,33,979363974,,26420
 35701,post@medietilsynet.no,Klagenemnda for film og videogram ,Klagenemnda for film og videogram ,Klagenemnda for film og videogram ,http://film.medietilsynet.no/Klagenemnd,,58,,,20530
 25075,osl@kartverket.no,Statens kartverk Oslo ,Statens kartverk Oslo ,Norwegian Mapping Authority - Oslo ,http://www.statkart.no/oslo,http://www.statkart.no/eng/Norwegian_Mapping_Authority/,44,,,25107
@@ -3872,7 +3870,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 42842,postmottak@helse-bergen.no,Kronstad DPS - Bergenhus,Kronstad DPS - Bergenhus,Kronstad District Psychiatric Centre - Bergenhus,http://www.helse-bergen.no/omoss/avdelinger/kronstad-dps/Sider/enhet.aspx,,39,,,32242
 40566,postmottak@dfo.no,Direktoratet for økonomistyring - Stavanger,Direktoratet for økonomistyring - Stavanger,Norwegian Government Agency for Financial Management - Stavanger Office,http://www.dfo.no/,http://dfo.no/no/Om-DFO/Om-DFO/Norwegian-Government-Agency-for-Financial-Management/,36,,,35021
 22851,biblioteket@seljord.kommune.no,Seljord bibliotek,Seljord bibliotek,Seljord Public Library,http://www.seljord.kommune.no/nb-NO/Tenester/Tenestekatalog/Kultur_idrett_og_fritid/Bibliotek.aspx,,73,,,25584
-22816,biblioteket@sandnes.kommune.no,Sandnes bibliotek,Sandnes bibliotek,Sandnes Public Library,http://www.sandnes.kommune.no/index.asp?topExpand=1000094&subExpand=&menuid=1000571&strUrl=//applications/system/publish/view/showobject.asp?channelid=1000491&context=40,,73,,,25574
+22816,biblioteket@sandnes.kommune.no,Sandnes bibliotek,Sandnes bibliotek,Sandnes Public Library,http://www.sandnes.kommune.no/index.asp?topExpand=1000094&subExpand=&menuid=1000571&strUrl=//applications/system/publish/view/showobject.asp?channelid=1000491&context=40,,73,974610582,,25574
 42042,postmottak@kul.oslo.kommune.no,"Oslo kommune, kulturetaten","Oslo kommune, kulturetaten","City of Oslo, Agency for Cultural Affairs",http://www.kulturetaten.oslo.kommune.no/,,68,992410213,,25703
 42823,va.sfd@dsb.no,Vest-Agder sivilforsvarsdistrikt ,Vest-Agder sivilforsvarsdistrikt ,Vest-Agder Civil Defence District,http://www.sivilforsvaret.no/Distrikter/Vest-Agder/Aktuelt1/,http://www.sivilforsvaret.no/s/English/,36,,,26551
 40203,,Skatt Midt-Norge Snåsa,Skatt Midt-Noreg Snåsa,Snåsa Tax Office,http://www.skatteetaten.no/no/,http://www.skatteetaten.no/en/International-pages/,37,,,40183
@@ -4318,7 +4316,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 30871,,Lierne forliksråd,Lierne forliksråd,Lierne Conciliation Board,http://www.forliksraadet.no/index.php,,281,,,42202
 30872,post.sivil.lillehammer.gudbrandsdal@politiet.no,Lillehammer forliksråd,Lillehammer forliksråd,Lillehammer Conciliation Board,http://www.forliksraadet.no/index.php,,281,,,42202
 31118,,Øvre Eiker forliksråd,Øvre Eiker forliksråd,Øvre Eiker Conciliation Board,http://www.forliksraadet.no/index.php,,281,,,42202
-22376,hordaland@pobo.no,Pasient- og brukerombudet i Hordaland, ,Ombudsman for patients in Hordaland,http://www.pasientogbrukerombudet.no/fylke/6/Hordaland/,,36,,,32189
+22376,hordaland@pobo.no,Pasient- og brukerombudet i Hordaland,Pasient- og brukarombodet i Hordaland,Ombudsman for patients in Hordaland,https://helsenorge.no/pasient-og-brukerombudet/hordaland,,36,985530904,,32189
 22377,nordland@pasientogbrukerombudet.no,Pasient- og brukerombudet i Nordland,Pasient- og brukerombudet i Nordland,Ombudsman for patients in Nordland,http://www.pasientombudet.no/fylke/8/Nordland/,,36,,,32189
 22382,rogaland@pasientogbrukerombudet.no,Pasient- og brukerombudet i Rogaland,Pasient- og brukerombudet i Rogaland,Ombudsman for patients in Rogaland,http://pasientombudet.no/fylke/12/Rogaland/,,36,,,32189
 22387,telemark@pasientogbrukerombudet.no,Pasient- og brukerombudet i Telemark,Pasient- og brukerombudet i Telemark,Ombudsman for patients in Telemark,http://www.pasientombudet.no/fylke/15/Telemark/,,36,,,32189
@@ -4350,7 +4348,7 @@ tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenumm
 22036,siu@siu.no,Senter for internasjonalisering av utdanning ,Senter for internasjonalisering av utdanning ,Norwegian Centre for International Cooperation in Higher Education (SIU),http://www.siu.no/,http://siu.no/eng,38,986339523,,20528
 38962,post.ostfold@politiet.no,Namsfogden i Fredrikstad,Namsfogden i Fredrikstad,Fredrikstad Judgment Enforcement Office,https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_ostfold/KontaktInfo_199.xhtml,,141,,,26157
 38963,post.romerike@politiet.no,Namsfogden i Skedsmo,Namsfogden i Skedsmo,Skedsmo Judgment Enforcement Office,https://www.politi.no/romerike/kontakt_romerike/KontaktInfo_423.xml,,141,,,25622
-21418,post@helse-stavanger.no,Stavanger Universitetssykehus,Stavanger Univeristetssjukehus,Stavanger Universitetssykehus,http://www.helse-stavanger.no,,39,,,32239
+21418,post@helse-stavanger.no,Stavanger Universitetssykehus,Stavanger Univeristetssjukehus,Stavanger Universitetssykehus,http://www.helse-stavanger.no,,39,983974678,,32239
 38964,post.askerogbaerum@politiet.no,Namsfogden i Asker og Bærum,Namsfogden i Asker og Bærum,Asker og Bærum Judgment Enforcement Office,https://www.politi.no/kontakt_oss/kontakt_ditt_politidistrikt/kontakt_asker_og_barum/KontaktInfo_568.xhtml,,141,,,26301
 21421,postmottak@helse-bergen.no,Haukeland Universitetssykehus,Haukeland Universitetssykehus,Haukeland University Hospital,http://www.helse-bergen.no,,39,,,32242
 21422,marnar.jordskifterett@domstol.no,Marnar jordskifterett,Marnar jordskifterett,Marnar Land Consolidation Court,http://www.jordskifte.no/,http://www.domstol.no/en/Enkelt-domstol/The-land-consolidation-court-of-Norway/,21,,,40944
