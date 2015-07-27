@@ -5,15 +5,16 @@ virksomheter i Norge. Opprinnelig er datasettet fra etatsbasen
 tilknyttet norge.no / Difi. Dessverre har dette datasettet ikke blitt
 oppdatert siden 2012 da arbeidet med norge.no har vært uavklart.
 
-Vi ønsker å få tak i grunnlaget for dette datasettet og har du
-informasjon om dette så vennligst ta kontakt her eller via
-kontaktsidene på https://mimesbronn.no
+Datasettet er opprinnelig basert på
+[åpne datasett fra Difi](http://data.norge.no) og er underlagt
+[Norsk lisens for offentlig data (NLOD)](http://data.norge.no/nlod/en/1.0). Datagrunnlaget
+ble sist oppdatert i 2012, og blir ikke lenger vedlikeholdt av Difi.
 
-Datasettet er opprinnelig basert på åpne datasett fra Difi og er
-underlagt Norsk lisens for offentlig data (NLOD). Datagrunnlaget ble
-sist oppdatert i 2012, og blir ikke lenger vedlikeholdt av Difi.
+Feil kan rapporteres via pull request her på github, via issues eller
+via epost på [https://www.mimesbronn.no/help/contact](kontaktsiden på
+Mimes brønn).
 
-# eksempel
+# EKSEMPEL
 
 ``` csv
 #tailid,email,name_nb,name_nn,name_en,url_nb,url_en,orgstructid,orgid,kommunenummer,parentid
