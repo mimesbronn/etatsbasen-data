@@ -11,7 +11,7 @@ Datasettet er opprinnelig basert på
 ble sist oppdatert i 2012, og blir ikke lenger vedlikeholdt av Difi.
 
 Feil kan rapporteres via pull request her på github, via issues eller
-via epost på [https://www.mimesbronn.no/help/contact](kontaktsiden til Mimes brønn).
+via epost på [kontaktsiden til Mimes brønn](https://www.mimesbronn.no/help/contact).
 
 # EKSEMPEL
 
